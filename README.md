@@ -1,6 +1,6 @@
 # Whether-App
 
-![Whether-App](https://i.imgur.com/VxhOSH5.png)
+
 
 🎯 Overview
 Whether-App is a modern, responsive weather application that provides users with real-time weather information. Built using React, this app fetches data from a weather API and presents it in a clean and intuitive interface.
